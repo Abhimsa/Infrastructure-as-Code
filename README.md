@@ -18,3 +18,5 @@ This project automates the provisioning and management of cloud infrastructure u
 3. Initialize Terraform:  
    ```bash
    terraform init
+   terraform plan
+   terraform apply
